@@ -58,13 +58,18 @@ body{
 
 .soltaraf{
     float: left;
-    width: 35%;
-    
+    width: 80%;
+    padding-left: 10px;
+    box-sizing: border-box;
 }
 
-.sagtaraf{
-    float: right;
-    width: 65%;
+.solsag img{
+    float: left;
+    width: 20%;
+    height: 20%;
+    border: 15px blue solid;
+    box-sizing: border-box;
+    border-radius: 60px;
 }
 
 .y-sol{
